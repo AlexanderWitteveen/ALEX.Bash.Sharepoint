@@ -1,1 +1,0 @@
-# ALEX.Bash.Sharepoint
